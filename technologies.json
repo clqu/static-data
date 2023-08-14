@@ -1,0 +1,60 @@
+{
+        "codeEditors": [
+            { "image": "vscode", "name": "Visual Studio Code" },
+            { "image": "visualstudio", "name": "Visual Studio" }
+        ],
+        "languages": [
+            { "image": "javascript", "name": "JavaScript" },
+            { "image": "typescript", "name": "TypeScript" },
+            { "image": "python", "name": "Python" },
+            { "image": "java", "name": "Java" },
+            { "image": "php", "name": "PHP" },
+            { "image": "go", "name": "Go" },
+            { "image": "cs", "name": "C#" },
+            { "image": "sass", "name": "Sass" }
+        ],
+        "markupLanguages": [
+            { "image": "html", "name": "HTML" },
+            { "image": "css", "name": "CSS" },
+            { "image": "markdown", "name": "Markdown" }
+        ],
+        "frameworks": [
+            { "image": "react", "name": "React" },
+            { "image": "nextjs", "name": "Next.js" },
+            { "image": "nestjs", "name": "Nest.js" },
+            { "image": "nodejs", "name": "Node.js" },
+            { "image": "gatsby", "name": "Gatsby" },
+            { "image": "tailwindcss", "name": "Tailwind CSS" },
+            { "image": "bootstrap", "name": "Bootstrap" },
+            { "image": "materialui", "name": "Material UI" },
+            { "image": "jquery", "name": "jQuery" },
+            { "image": "alpinejs", "name": "Alpine.js" },
+            { "image": "express", "name": "Express" },
+            { "image": "webpack", "name": "Webpack" },
+            { "image": "electron", "name": "Electron" },
+            { "image": "graphql", "name": "GraphQL" }
+        ],
+        "databases": [
+            { "image": "mongodb", "name": "MongoDB" },
+            { "image": "mysql", "name": "MySQL" },
+            { "image": "firebase", "name": "Firebase" },
+            { "image": "sqlite", "name": "SQLite" }
+        ],
+        "services": [
+            { "image": "vercel", "name": "Vercel" },
+            { "image": "netlify", "name": "Netlify" },
+            { "image": "cloudflare", "name": "Cloudflare" },
+            { "image": "heroku", "name": "Heroku" },
+            { "image": "aws", "name": "Amazon Web Services" },
+            { "image": "replit", "name": "Replit" }
+        ],
+        "other": [
+            { "image": "github", "name": "GitHub" },
+            { "image": "gitlab", "name": "GitLab" },
+            { "image": "git", "name": "Git" },
+            { "image": "sentry", "name": "Sentry" },
+            { "image": "figma", "name": "Figma" },
+            { "image": "ps", "name": "Photoshop" },
+            { "image": "ai", "name": "Illustrator" }
+        ]
+    }

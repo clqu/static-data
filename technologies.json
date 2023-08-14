@@ -1,9 +1,14 @@
-{
-        "codeEditors": [
+[
+    {
+        "category": "Code Editors",
+        "items": [
             { "image": "vscode", "name": "Visual Studio Code" },
             { "image": "visualstudio", "name": "Visual Studio" }
-        ],
-        "languages": [
+        ]
+    },
+    {
+        "category": "Languages",
+        "items": [
             { "image": "javascript", "name": "JavaScript" },
             { "image": "typescript", "name": "TypeScript" },
             { "image": "python", "name": "Python" },
@@ -12,13 +17,19 @@
             { "image": "go", "name": "Go" },
             { "image": "cs", "name": "C#" },
             { "image": "sass", "name": "Sass" }
-        ],
-        "markupLanguages": [
+        ]
+    },
+    {
+        "category": "Markup Languages",
+        "items": [
             { "image": "html", "name": "HTML" },
             { "image": "css", "name": "CSS" },
             { "image": "markdown", "name": "Markdown" }
-        ],
-        "frameworks": [
+        ]
+    },
+    {
+        "category": "Frameworks",
+        "items": [
             { "image": "react", "name": "React" },
             { "image": "nextjs", "name": "Next.js" },
             { "image": "nestjs", "name": "Nest.js" },
@@ -33,22 +44,31 @@
             { "image": "webpack", "name": "Webpack" },
             { "image": "electron", "name": "Electron" },
             { "image": "graphql", "name": "GraphQL" }
-        ],
-        "databases": [
+        ]
+    },
+    {
+        "category": "Databases",
+        "items": [
             { "image": "mongodb", "name": "MongoDB" },
             { "image": "mysql", "name": "MySQL" },
             { "image": "firebase", "name": "Firebase" },
             { "image": "sqlite", "name": "SQLite" }
-        ],
-        "services": [
+        ]
+    },
+    {
+        "category": "Services",
+        "items": [
             { "image": "vercel", "name": "Vercel" },
             { "image": "netlify", "name": "Netlify" },
             { "image": "cloudflare", "name": "Cloudflare" },
             { "image": "heroku", "name": "Heroku" },
             { "image": "aws", "name": "Amazon Web Services" },
             { "image": "replit", "name": "Replit" }
-        ],
-        "other": [
+        ]
+    },
+    {
+        "category": "Other",
+        "items": [
             { "image": "github", "name": "GitHub" },
             { "image": "gitlab", "name": "GitLab" },
             { "image": "git", "name": "Git" },
@@ -58,3 +78,4 @@
             { "image": "ai", "name": "Illustrator" }
         ]
     }
+]

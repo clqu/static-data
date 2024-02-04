@@ -6,41 +6,5 @@
             "url": "https://vcodes.xyz",
             "technologies": ["Next.js", "Tailwind CSS", "Node.js", "MongoDB"],
             "source": "https://github.com/vcodes-xyz"
-        },
-        {
-            "id": "voidui",
-            "description": "Responsive and flexible React UI components built with Tailwind CSS and Framer Motion.",
-            "image": "https://voidapi.rest/images/PCPvz8H/b33bb1b81e2e.png",
-            "title": "VoidUI",
-            "url": "https://ui.voiddevs.org",
-            "technologies": ["React", "Tailwind CSS", "TypeScript"],
-            "source": "https://github.com/VoidDevsOrg/react-ui"
-        },
-        {
-            "id": "desion",
-            "description": "Find the most suitable servers for you, discover new servers and vote for the servers you like.",
-            "image": "https://voidapi.rest/images/GdtHt3L/ad4cf4cc8093.png",
-            "title": "Desion",
-            "url": "https://desion.app",
-            "technologies": ["Next.js", "Tailwind CSS", "TypeScript"],
-            "source": "https://github.com/VoidDevsOrg"
-        },
-        {
-            "id": "softwareer",
-            "description": "Softwareer is a provider that provides a small API for convenience for developers to manage their own projects. You can easily create a blog for your own projects.",
-            "image": "https://voidapi.rest/images/0rJFMkH/9ed5bfef6274.png",
-            "title": "Softwareer",
-            "url": "https://softwareer.net",
-            "technologies": ["Next.js", "Tailwind CSS", "TypeScript", "Golang"],
-            "source": "https://github.com/VoidDevsOrg"
-        },
-        {
-            "id": "nustry",
-            "description": "Provide a more secure search, prevent your data from being retained.",
-            "image": "https://voidapi.rest/images/mJK5yhy/e7a66fd878f6.png",
-            "title": "Nustry",
-            "url": "https://nustry.com",
-            "technologies": ["Astro", "Tailwind CSS", "Golang"],
-            "source": "https://github.com/VoidDevsOrg"
         }
 ]
